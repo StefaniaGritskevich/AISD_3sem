@@ -1,0 +1,3 @@
+﻿  lab08.cpp
+D:\asid\lab08\lab08\lab08\lab08.cpp(95,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab08.vcxproj -> D:\asid\lab08\lab08\Debug\lab08.exe

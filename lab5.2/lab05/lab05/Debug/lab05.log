@@ -1,0 +1,4 @@
+﻿  lab5.cpp
+D:\asid\lab5.2\lab05\lab05\lab5.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\asid\lab5.2\lab05\lab05\lab5.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+  lab05.vcxproj -> D:\asid\lab5.2\lab05\Debug\lab05.exe

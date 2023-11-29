@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(14,37): warning C4101: start_vibor: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(14,24): warning C4101: start_vstav: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(15,44): warning C4101: end_fast: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(14,50): warning C4101: start_fasr: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(14,10): warning C4101: start_bubble: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(16,46): warning C4101: itog_fast: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(16,34): warning C4101: itog_vibor: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(15,33): warning C4101: end_vibor: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(16,9): warning C4101: itog_bubble: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(15,22): warning C4101: end_vstav: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(15,10): warning C4101: end_bubble: неиспользованная локальная переменная
+D:\asid\chernovik\chernovik\chernovik\Source.cpp(16,22): warning C4101: itog_vstav: неиспользованная локальная переменная
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl bubble(int * const,int)" (?bubble@@YAXQAHH@Z) в функции _main.
+D:\asid\chernovik\chernovik\Debug\chernovik.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

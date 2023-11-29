@@ -1,0 +1,14 @@
+﻿  Hash.cpp
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(12,9): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(222,23): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(87,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(73): message : во время компиляции функции-члена класс шаблон "void NumTable<std::string>::Search(int)"
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(233): message : выполняется компиляция ссылки на экземпляр шаблон функции "void NumTable<std::string>::Search(int)"
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(188): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "NumTable<std::string>"
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(121,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(115): message : во время компиляции функции-члена класс шаблон "void NumTable<std::string>::Print(void)"
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(203): message : выполняется компиляция ссылки на экземпляр шаблон функции "void NumTable<std::string>::Print(void)"
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(150,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(136): message : во время компиляции функции-члена класс шаблон "void NumTable<std::string>::Delete(int)"
+D:\asid\lab06\lab06\lab000006\lab000006\Hash.cpp(240): message : выполняется компиляция ссылки на экземпляр шаблон функции "void NumTable<std::string>::Delete(int)"
+  lab000006.vcxproj -> D:\asid\lab06\lab06\lab000006\Debug\lab000006.exe

@@ -1,0 +1,3 @@
+﻿  sort.cpp
+D:\asid\lab04\lab04\lab04\sort.cpp(183,101): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  lab04.vcxproj -> D:\asid\lab04\lab04\Debug\lab04.exe

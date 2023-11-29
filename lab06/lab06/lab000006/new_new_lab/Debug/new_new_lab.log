@@ -1,0 +1,3 @@
+﻿  Hash_Table.cpp
+D:\asid\lab06\lab06\lab000006\new_new_lab\Hash_Table.cpp(46): warning C4715: hashTC::Object::deleteByData: значение возвращается не при всех путях выполнения
+  new_new_lab.vcxproj -> D:\asid\lab06\lab06\lab000006\Debug\new_new_lab.exe
